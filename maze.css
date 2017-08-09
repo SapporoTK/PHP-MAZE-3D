@@ -1,0 +1,46 @@
+body#main {
+    background-color: #606060;
+}
+
+#app-title {
+    color: #FFFF00;
+}
+
+#div-main-img {
+    background-color: #000;
+    margin: 0;
+    padding: 0;
+}
+
+#scores {
+    margin: 1.4em auto;
+}
+
+#score-table {
+    margin: 1.4em auto;
+    border: solid 1px #000000; border-collapse: collapse;
+    width: 480px;
+}
+
+#score-table th {
+    background-color: #CCCCFF;
+}
+
+#score-table td, #score-table th {
+     border: solid 1px #333333;
+}
+
+#score-table td {
+    background-color: #f8f8f8;
+}
+
+body#game-end #main {
+    text-align: center;
+    margin: 0 auto;
+}
+
+#your-score {
+    margin: 8px auto;
+    color: #FF0000;
+    font-size: 120%;
+}
